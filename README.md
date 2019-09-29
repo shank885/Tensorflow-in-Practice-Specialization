@@ -1,5 +1,5 @@
 # [Tensorflow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
-##*Solution to Tensorflow in Practice Specialization from deeplearning.ai on Coursera*
+*Solution to Tensorflow in Practice Specialization from deeplearning.ai on Coursera*
 # Courses
 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
   * [Codes](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization/tree/master/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Codes)
