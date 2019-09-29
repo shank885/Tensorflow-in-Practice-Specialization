@@ -8,10 +8,10 @@
   * [Codes](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization/tree/master/2.%20Convolutional%20Neural%20Network%20in%20Tensorflow/Codes)
   * [Quizzes](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization/tree/master/2.%20Convolutional%20Neural%20Network%20in%20Tensorflow/Quiz)
 3. Natural Language Processing in TensorFlow
-  * [Codes]()
-  * [Quizzes]()
+  * [Codes](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization/tree/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Codes)
+  * [Quizzes](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization/tree/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Quizzes)
 4. Sequence, Time Series and Prediction
-  * [Codes]()
-  * [Quizzes]()
+  * [Codes](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization/tree/master/4.%20Sequence%2C%20Time%20Series%20and%20Prediction/Codes)
+  * [Quizzes](https://github.com/SHANK885/Tensorflow-in-Practice-Specialization/tree/master/4.%20Sequence%2C%20Time%20Series%20and%20Prediction/Quizzes)
 
 
