@@ -1,7 +1,7 @@
+![](https://deeplearning-assets.s3.amazonaws.com/content/uploads/2018/09/deeplearning-logo.svg.gzip)
+>
 # [Tensorflow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 *This Repository Contains Solution to Quizzes and Coding Problems of Tensorflow in Practice Specialization from deeplearning.ai on Coursera Taught by [Laurence Moroney](https://www.coursera.org/instructor/lmoroney)*
-
-![](https://deeplearning-assets.s3.amazonaws.com/content/uploads/2018/09/deeplearning-logo.svg.gzip)
 
 ## Courses
 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
