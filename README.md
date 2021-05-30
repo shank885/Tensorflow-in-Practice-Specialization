@@ -37,3 +37,6 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
+### Other Relevant Repositories
+* [Machine Learning - Andrew Ng (Stanford University)](https://github.com/SHANK885/Machine-Learning-Andrew-Ng)
+* [Deeplearning Specialization - Andrew Ng (Coursera)](https://github.com/SHANK885/Deep-Learning-Specialization-Coursera)
